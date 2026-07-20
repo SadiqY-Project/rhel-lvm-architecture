@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="l6vgXNm8K3Bl99MvNgc0">
+    <mxGraphModel dx="913" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="60" width="140" x="630" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-13" edge="1" parent="1" source="d1vHeIp7lXbwcXlI49ie-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="190" width="320" x="220" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-1" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="sda (5GB)" vertex="1">
+          <mxGeometry height="80" width="80" x="270" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-2" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="sdc (5gb)" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="VG: vg_enterprise (10GB)" vertex="1">
+          <mxGeometry height="30" width="180" x="290" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LV: lv_data (4GB) [XFS]" vertex="1">
+          <mxGeometry height="30" width="110" x="645" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="d1vHeIp7lXbwcXlI49ie-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;Project 02: Logical Storage Architecture&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;By: Sadiq&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
